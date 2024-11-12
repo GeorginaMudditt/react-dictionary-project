@@ -1,0 +1,15 @@
+.Footer {
+  background-color: #f95959;
+  padding: 15px;
+}
+
+.Footer p {
+  color: #233142;
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.Footer a {
+  color: #233142;
+}
