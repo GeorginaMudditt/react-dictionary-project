@@ -1,0 +1,12 @@
+.Header .dictionary-pic {
+  height: 100px;
+  object-fit: cover;
+  width: 100%;
+}
+
+.Header h1 {
+  color: #f95959;
+  font-size: 48px;
+  font-weight: 600;
+  margin-top: 20px;
+}
