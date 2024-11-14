@@ -1,3 +1,13 @@
+.Dictionary .dictionary-header {
+  background-color: #fcfefe;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin: 0 auto;
+  padding: 10px 0 20px 0;
+  max-width: 500px;
+  width: 80%;
+}
+
 .Dictionary h3 {
   color: #233142;
   font-size: 18px;
@@ -11,9 +21,9 @@
 }
 
 .Dictionary .search-button {
-  background-color: #f95959;
-  border: 2px solid #f95959;
-  color: white;
+  background-color: #66bfbf;
+  border: 2px solid #66bfbf;
+  color: #233142;
   font-weight: 600;
   padding: 5px 10px;
   margin-left: 5px;
@@ -21,5 +31,5 @@
 
 .Dictionary .search-button:hover {
   background-color: white;
-  color: #f95959;
+  color: #66bfbf;
 }
