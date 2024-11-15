@@ -1,0 +1,16 @@
+.Results .results-header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #fcfefe;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin: 10px auto;
+  max-width: 500px;
+  padding: 20px;
+  text-align: left;
+  width: 80%;
+}
+
+.Results .word {
+  color: #f76b8a;
+}
